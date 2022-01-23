@@ -1,8 +1,8 @@
 {
-"name": "Queen-Alexa",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/HYPER-MOD/Queen-Alexa",
-  "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
+"name": "FroZen-ElFaGer",
+  "description": "FroZen ElFaGer WhatsApp Bot",
+  "repository": "https://github.com/mohamednassar83/Queen-Alexa",
+  "logo": "https://i.ibb.co/K0GNGX3/5ac372a9bc72f4973e135f88fc2611d9.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
